@@ -3,16 +3,18 @@ li {
     padding: 10px;
 }
 
+ul {
+    background-color: grey;
+}
 #getBonusButton:hover {
     background-color: #85bb65;
     transition-duration: .5s;
 }
 #getBonusButton {
-height: 100px;
-width: 200px;
-font-size:1.2em;
+    height: 100px;
+    width: 200px;
+    font-size:1.2em;
 }
-
 body {
     background-image: url(/Users/mileslacek/prime/tier2/assignments/object-group-bonus-calculator/images/moneybag.png);
     background-size: contain;
